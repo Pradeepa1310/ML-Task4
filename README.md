@@ -200,7 +200,7 @@ Otherwise, the message is marked as **NORMAL** priority.
 ---
 **OUTPUTS**:
 <img width="676" height="502" alt="image" src="https://github.com/user-attachments/assets/24ffc812-1ee3-45a3-bd85-65c1f7c09c4c" />
-<img width="530" height="432" alt="image" src="https://github.com/user-attachments/assets/efb52533-cee5-420f-8116-43d2d59b74c5" />
+
 
 <img width="515" height="290" alt="image" src="https://github.com/user-attachments/assets/0e231985-e978-4955-8121-f805a46db5e5" />
 
